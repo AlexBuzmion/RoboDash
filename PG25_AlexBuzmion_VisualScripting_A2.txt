@@ -1,0 +1,13 @@
+Google Drive Link that has 1, 2, 3 and 4
+https://drive.google.com/drive/folders/1DR7hcRXcbi6xWARIDt7pw1X1uD1v9qOH?usp=sharing
+
+1) Google Docs explaining the logic and the thought process. https://docs.google.com/document/d/1m9xbvDfZbn9KOT9-pxOEEpHuue2KTj8IhMJ-dreDb-U/edit?usp=sharing
+
+2) Zipped unreal project. Use correct naming convention
+https://drive.google.com/file/d/1OzvkvBOMnbZHLCvLDOgscNhZamTtlVKW/view?usp=sharing
+
+3) Video of the game being played as expected 
+https://drive.google.com/file/d/19AOEwIy56SXXkXjep8Ci9tcgUMnjUaNp/view?usp=sharing
+
+4) Packaged Build (Executable) - in the "FinalBuilds" folder.
+
